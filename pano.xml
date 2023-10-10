@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.0.6" start="node1" apprev="20004">
+  <panorama id="node1">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0.486382" fov="148.118" tilt="-3.09497" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node1" copyright="" source="좁게" customnodeid="" latitude="" longitude="" author="" info="좁게" comment="휴온스 메디텍" title="메인홀" datetime="" tags="huons|메인홀-20231010-094838" description="1층" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-256.43" url="{node6}" target="" id="Point01" title="에스테틱룸 메인" description="" skinid="ht_node" tilt="-0.96"/>
+      <hotspot pan="-271" url="{node5}" target="" id="Point02" title="에스테틱룸" description="" skinid="ht_node" tilt="-13"/>
+      <hotspot pan="-88.37" url="{node8}" target="" id="Point03" title="엔도스코프룸 메인" description="" skinid="ht_node" tilt="-3.7"/>
+      <hotspot pan="-104.82" url="{node9}" target="" id="Point04" title="엔도스코프룸" description="" skinid="ht_node" tilt="-24.19"/>
+      <hotspot pan="-208.04" url="{node14}" target="" id="Point05" title="엑스트라룸 " description="" skinid="ht_node" tilt="-21.1"/>
+      <hotspot pan="-212.84" url="{node15}" target="" id="Point06" title="엑스트라룸 메인" description="" skinid="ht_node" tilt="-0.78"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-1.58693" fov="160.225" tilt="0.116327" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node5" copyright="" source="" customnodeid="" latitude="" longitude="" author="" info="" comment="휴온스 메디텍" title="에스테틱룸" datetime="" tags="huons|에스테틱룸-20231010-095407" description="1층" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-173.27" url="{node1}" target="" id="Point01" title="메인홀" description="" skinid="ht_node" tilt="-29.39"/>
+      <hotspot pan="-315.11" url="{node6}" target="" id="Point02" title="에스테틱룸 메인" description="" skinid="ht_node" tilt="-1.23"/>
+      <hotspot pan="-236.02" url="{node9}" target="" id="Point03" title="엔도스코프룸" description="" skinid="ht_node" tilt="-12.76"/>
+      <hotspot pan="-251.25" url="{node8}" target="" id="Point04" title="엔도스코프룸 메인" description="" skinid="ht_node" tilt="-2.35"/>
+      <hotspot pan="-189.98" url="{node9}" target="" id="Point05" title="엔도스코프룸" description="" skinid="ht_node" tilt="-8.55"/>
+      <hotspot pan="-178.53" url="{node8}" target="" id="Point06" title="엔도스코프룸 메인" description="" skinid="ht_node" tilt="4.31"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-2.79779" fov="136.926" tilt="-0.0513907" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node6" copyright="" source="" customnodeid="" latitude="" longitude="" author="" info="넓게" comment="휴온스 메디텍" title="에스테틱룸 메인" datetime="" tags="에스테틱룸메인-20231010-103243" description="1층" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-207.02" url="{node5}" target="" id="Point01" title="에스테틱룸" description="" skinid="ht_node" tilt="-4.54"/>
+      <hotspot pan="-16.65" url="{node2}" target="" id="Point02" title="에스테틱 1" description="" skinid="ht_node" tilt="-29.34"/>
+      <hotspot pan="-31.34" url="{node3}" target="" id="Point03" title="에스테틱 2" description="" skinid="ht_node" tilt="-14.3"/>
+      <hotspot pan="-53.21" url="{node4}" target="" id="Point04" title="에스테틱 3" description="" skinid="ht_node" tilt="-26.56"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-2.28079" fov="160.225" tilt="-1.58102" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node2" copyright="" source="" customnodeid="" latitude="" longitude="" author="" info="" comment="휴온스 메디텍" title="에스테틱 1" datetime="" tags="huons|에스테틱 재품확대1-20231010-102642" description="1층" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-204.09" url="{node6}" target="" id="Point01" title="에스테틱룸 메인" description="" skinid="ht_node" tilt="-33.7"/>
+      <hotspot pan="-203.95" url="{node5}" target="" id="Point02" title="에스테틱룸" description="" skinid="ht_node" tilt="1.6"/>
+      <hotspot pan="-98.59" url="{node3}" target="" id="Point03" title="에스테틱 2" description="" skinid="ht_node" tilt="-18.47"/>
+      <hotspot pan="-133.21" url="{node4}" target="" id="Point04" title="에스테틱 3" description="" skinid="ht_node" tilt="-14.39"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-10.42" fov="160.224" tilt="-0.941892" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node3" copyright="" source="" customnodeid="" latitude="" longitude="" author="" info="" comment="휴온스 메디텍" title="에스테틱 2" datetime="" tags="huons|에스테틱 재품확대2-20231010-103611" description="1층" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-163.39" url="{node2}" target="" id="Point01" title="에스테틱 1" description="" skinid="ht_node" tilt="-41.85"/>
+      <hotspot pan="-134.49" url="{node6}" target="" id="Point02" title="에스테틱룸 메인" description="" skinid="ht_node" tilt="-21.02"/>
+      <hotspot pan="-122.21" url="{node5}" target="" id="Point03" title="에스테틱룸" description="" skinid="ht_node" tilt="-0.25"/>
+      <hotspot pan="-91.99" url="{node4}" target="" id="Point04" title="에스테틱 3" description="" skinid="ht_node" tilt="-26.36"/>
+      <hotspot pan="-58.02" url="{node4}" target="" id="Point05" title="에스테틱 3" description="" skinid="ht_node" tilt="-28.58"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-0.393329" fov="160.224" tilt="0.0621047" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node4" copyright="" source="" customnodeid="" latitude="" longitude="" author="" info="" comment="휴온스 메디텍" title="에스테틱 3" datetime="" tags="huons|에스테틱 재품확인3-20231010-102610" description="1층" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-273.28" url="{node3}" target="" id="Point01" title="에스테틱 2" description="" skinid="ht_node" tilt="-42.74"/>
+      <hotspot pan="-232.99" url="{node2}" target="" id="Point02" title="에스테틱 1" description="" skinid="ht_node" tilt="-41.68"/>
+      <hotspot pan="-151.22" url="{node6}" target="" id="Point03" title="에스테틱룸 메인" description="" skinid="ht_node" tilt="-34.95"/>
+      <hotspot pan="-131.73" url="{node5}" target="" id="Point04" title="에스테틱룸" description="" skinid="ht_node" tilt="-4.81"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-0.878072" fov="148.118" tilt="0.696913" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node9" copyright="" source="" customnodeid="" latitude="" longitude="" author="" info="넓게" comment="휴온스 메디텍" title="엔도스코프룸" datetime="" tags="huons|엔도스코프룸-20231010-095721" description="1층" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-222.2" url="{node1}" target="" id="Point01" title="메인홀" description="" skinid="ht_node" tilt="-5.65"/>
+      <hotspot pan="-189.05" url="{node5}" target="" id="Point02" title="에스테틱룸" description="" skinid="ht_node" tilt="-13.13"/>
+      <hotspot pan="-179.07" url="{node6}" target="" id="Point03" title="에스테틱룸 메인" description="" skinid="ht_node" tilt="0.03"/>
+      <hotspot pan="-154.85" url="{node14}" target="" id="Point04" title="엑스트라룸 " description="" skinid="ht_node" tilt="-12.39"/>
+      <hotspot pan="-153.01" url="{node15}" target="" id="Point05" title="엑스트라룸 메인" description="" skinid="ht_node" tilt="-0.86"/>
+      <hotspot pan="-314.81" url="{node8}" target="" id="Point06" title="엔도스코프룸 메인" description="" skinid="ht_node" tilt="-1.91"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-2.12706" fov="117.015" tilt="-1.73568" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node8" copyright="" source="" customnodeid="" latitude="" longitude="" author="" info="넓게" comment="휴온스 메디텍" title="엔도스코프룸 메인" datetime="" tags="huons|엔도스룸메인-20231010-100804" description="1층" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-227.25" url="{node9}" target="" id="Point01" title="엔도스코프룸" description="" skinid="ht_node" tilt="-11.21"/>
+      <hotspot pan="-27.3" url="{node16}" target="" id="Point02" title="엔도스코프룸 1" description="" skinid="ht_node" tilt="-8.92"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-2.45181" fov="148.118" tilt="-0.550786" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node16" copyright="" source="" customnodeid="" latitude="" longitude="" author="" info="넓게" comment="휴온스 메디텍" title="엔도스코프룸 1" datetime="" tags="huons|엔도스룸 제품확대1-20231010-100805" description="1층" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-280.46" url="{node8}" target="" id="Point01" title="엔도스코프룸 메인" description="" skinid="ht_node" tilt="-34.84"/>
+      <hotspot pan="-278.99" url="{node9}" target="" id="Point02" title="엔도스코프룸" description="" skinid="ht_node" tilt="-4.41"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-0.496837" fov="148.118" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node14" copyright="" source="" customnodeid="" latitude="" longitude="" author="" info="" comment="휴온스 메디텍" title="엑스트라룸 " datetime="" tags="huons|엑스트라룸-20231010-094809" description="1층" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-252.22" url="{node9}" target="" id="Point01" title="엔도스코프룸" description="" skinid="ht_node" tilt="-10.06"/>
+      <hotspot pan="-243.27" url="{node8}" target="" id="Point02" title="엔도스코프룸 메인" description="" skinid="ht_node" tilt="-2.03"/>
+      <hotspot pan="-131.47" url="{node5}" target="" id="Point03" title="에스테틱룸" description="" skinid="ht_node" tilt="-13.12"/>
+      <hotspot pan="-111.18" url="{node6}" target="" id="Point04" title="에스테틱룸 메인" description="" skinid="ht_node" tilt="0.18"/>
+      <hotspot pan="-186.12" url="{node1}" target="" id="Point05" title="메인홀" description="" skinid="ht_node" tilt="-10.8"/>
+      <hotspot pan="-38.84" url="{node15}" target="" id="Point06" title="엑스트라룸 메인" description="" skinid="ht_node" tilt="-10.33"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-8.70423" fov="117.015" tilt="1.46391" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node15" copyright="" source="" customnodeid="" latitude="" longitude="" author="" info="넓게" comment="휴온스 메디텍" title="엑스트라룸 메인" datetime="" tags="huons|엑스트라룸메인-20231010-104350" description="1층" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-235.03" url="{node14}" target="" id="Point01" title="엑스트라룸 " description="" skinid="ht_node" tilt="-7.24"/>
+      <hotspot pan="-22.58" url="{node7}" target="" id="Point02" title="엑스트라룸 1" description="" skinid="ht_node" tilt="-18.5"/>
+      <hotspot pan="-59.73" url="{node11}" target="" id="Point04" title="엑스트라룸 3" description="" skinid="ht_node" tilt="-17.86"/>
+      <hotspot pan="-77.23" url="{node12}" target="" id="Point05" title="엑스트라룸 4" description="" skinid="ht_node" tilt="-14.83"/>
+      <hotspot pan="-343.33" url="{node13}" target="" id="Point06" title="엑스트라룸 5" description="" skinid="ht_node" tilt="-31"/>
+      <hotspot pan="-41.62" url="{node10}" target="" id="Point03" title="엑스트라룸 2" description="" skinid="ht_node" tilt="-18.87"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-9.03799" fov="148.118" tilt="-0.0516056" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node7" copyright="" source="" customnodeid="" latitude="" longitude="" author="" info="" comment="휴온스 메디텍" title="엑스트라룸 1" datetime="" tags="huons|엑스트라룸 재품확대1-20231010-110833" description="1층" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-157.11" url="{node15}" target="" id="Point01" title="엑스트라룸 메인" description="" skinid="ht_node" tilt="-18.14"/>
+      <hotspot pan="-183.74" url="{node14}" target="" id="Point02" title="엑스트라룸 " description="" skinid="ht_node" tilt="-5.22"/>
+      <hotspot pan="-46.38" url="{node10}" target="" id="Point03" title="엑스트라룸 2" description="" skinid="ht_node" tilt="-42.22"/>
+      <hotspot pan="-97.6" url="{node11}" target="" id="Point04" title="엑스트라룸 3" description="" skinid="ht_node" tilt="-25.15"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-36.1859" fov="136.926" tilt="-1.8789" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node10" copyright="" source="" customnodeid="" latitude="" longitude="" author="" info="" comment="" title="엑스트라룸 2" datetime="" tags="엑스트라룸 재품확대1-20231010-110833" description="" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-168.56" url="{node7}" target="" id="Point01" title="엑스트라룸 1" description="" skinid="ht_node" tilt="-50.87"/>
+      <hotspot pan="-162.24" url="{node15}" target="" id="Point02" title="엑스트라룸 메인" description="" skinid="ht_node" tilt="-21.8"/>
+      <hotspot pan="-181.68" url="{node14}" target="" id="Point03" title="엑스트라룸 " description="" skinid="ht_node" tilt="-3.94"/>
+      <hotspot pan="-96.99" url="{node11}" target="" id="Point04" title="엑스트라룸 3" description="" skinid="ht_node" tilt="-26.32"/>
+      <hotspot pan="-108.82" url="{node12}" target="" id="Point05" title="엑스트라룸 4" description="" skinid="ht_node" tilt="-13.94"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-2.93629" fov="126.58" tilt="0.313544" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node11" copyright="" source="" customnodeid="" latitude="" longitude="" author="" info="" comment="휴온스 메디텍" title="엑스트라룸 3" datetime="" tags="huons|엑스트라룸 재품확대2-20231010-111012" description="1층" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-312.65" url="{node10}" target="" id="Point01" title="엑스트라룸 2" description="" skinid="ht_node" tilt="-29.24"/>
+      <hotspot pan="-274.32" url="{node7}" target="" id="Point02" title="엑스트라룸 1" description="" skinid="ht_node" tilt="-29.12"/>
+      <hotspot pan="-150.44" url="{node15}" target="" id="Point03" title="엑스트라룸 메인" description="" skinid="ht_node" tilt="-30.5"/>
+      <hotspot pan="-176.2" url="{node14}" target="" id="Point04" title="엑스트라룸 " description="" skinid="ht_node" tilt="-5.36"/>
+      <hotspot pan="-55.32" url="{node12}" target="" id="Point05" title="엑스트라룸 4" description="" skinid="ht_node" tilt="-23.69"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="41.76" fov="126.58" tilt="-2.42606" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node12" copyright="" source="" customnodeid="" latitude="" longitude="" author="" info="" comment="휴온스 메디텍" title="엑스트라룸 4" datetime="" tags="huons|엑스트라룸 재품확대3-20231010-111023" description="1층" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-305.04" url="{node11}" target="" id="Point01" title="엑스트라룸 3" description="" skinid="ht_node" tilt="-26.11"/>
+      <hotspot pan="-284.8" url="{node10}" target="" id="Point02" title="엑스트라룸 2" description="" skinid="ht_node" tilt="-21.88"/>
+      <hotspot pan="-269.4" url="{node7}" target="" id="Point03" title="엑스트라룸 1" description="" skinid="ht_node" tilt="-22.01"/>
+      <hotspot pan="-168.16" url="{node15}" target="" id="Point04" title="엑스트라룸 메인" description="" skinid="ht_node" tilt="-28.85"/>
+      <hotspot pan="-241.61" url="{node13}" target="" id="Point05" title="엑스트라룸 5" description="" skinid="ht_node" tilt="-19.12"/>
+      <hotspot pan="-195.63" url="{node14}" target="" id="Point06" title="엑스트라룸 " description="" skinid="ht_node" tilt="-4.43"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="3000" levelingroll="0" levelbias="0.400" levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" leveltilesize="510" overlap="1" levelingpitch="0">
+      <level width="3000" preload="0" height="3000" predecode="0"/>
+      <level width="1500" preload="0" height="1500" predecode="0"/>
+      <level width="750" preload="0" height="750" predecode="0"/>
+      <level width="375" preload="1" height="375" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="-5.40847" fov="136.926" tilt="0.229281" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="140" fovstereographic="330" scaletofit="1" tilt="90" fovfisheye="360"/>
+    </view>
+    <userdata nodeid="node13" copyright="" source="" customnodeid="" latitude="" longitude="" author="" info="" comment="" title="엑스트라룸 5" datetime="" tags="엑스트라룸 재품확대4-20231010-111000" description="" heading="0"/>
+    <hotspots smoothmovement="0" width="180" height="20" wordwrap="1">
+      <label backgroundalpha="1" height="20" wordwrap="1" borderalpha="1" bordercolor="0x000000" textalpha="1" textcolor="0x000000" borderradius="1" border="1" backgroundcolor="0xffffff" width="180" background="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff"/>
+      <hotspot pan="-137.72" url="{node12}" target="" id="Point01" title="엑스트라룸 4" description="" skinid="ht_node" tilt="-13.81"/>
+      <hotspot pan="-121.31" url="{node11}" target="" id="Point02" title="엑스트라룸 3" description="" skinid="ht_node" tilt="-19.73"/>
+      <hotspot pan="-94.07" url="{node10}" target="" id="Point03" title="엑스트라룸 2" description="" skinid="ht_node" tilt="-22.73"/>
+      <hotspot pan="-72.8" url="{node7}" target="" id="Point04" title="엑스트라룸 1" description="" skinid="ht_node" tilt="-30.73"/>
+      <hotspot pan="-190.57" url="{node15}" target="" id="Point05" title="엑스트라룸 메인" description="" skinid="ht_node" tilt="-24.34"/>
+      <hotspot pan="-222.52" url="{node14}" target="" id="Point06" title="엑스트라룸 " description="" skinid="ht_node" tilt="-13.43"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" zoomoutpause="1" softedge="0" blendcolor="0x000000" type="crossdissolve" zoomafterinfov="140" zoomin="0" zoomfov="40" zoomspeed="2" delay="none" blendtime="1" zoomafteroutfov="40" enabled="1"/>
+    <autorotate noderandom="1" useanimation="0" horizonfromdefview="0" returntohorizon="0.000" delay="5.00" startloaded="0" speed="0.050" nodefilter="" nodedelay="0.00" enabled="1"/>
+    <animation clipsrandom="0" useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" contextprojections="0" simulatemass="1" invertcontrol="1" sensitivity="8" rubberband="0" zoomcentercursor="1" contextfullscreen="1" hideabout="0" lockedkeyboardzoom="0" lockedmouse="0" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" contextvr="1" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" title="" copyright="" tags="" description="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
